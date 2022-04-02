@@ -11,8 +11,7 @@
 
 ;设置规则标志位
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
-ruleset=🛑 广告拦截Plus,https://gitee.com/wei__zhi/open/raw/master/surge.list
-;ruleset=🛑 广告拦截Plus,https://anti-ad.net/surge.txt
+ruleset=🛑 广告拦截Plus,https://raw.githubusercontent.com/oliver-zhq/MyRules/main/surge.list
 ruleset=👨 爷的规则_节点选择,https://gitee.com/wei__zhi/open/raw/master/MyRulesProxy.list
 ruleset=👨 爷的规则_CN可达,https://gitee.com/wei__zhi/open/raw/master/MyRulesCNReachable.list
 ruleset=👨 爷的规则_IP,https://gitee.com/wei__zhi/open/raw/master/MyRulesIP.list
