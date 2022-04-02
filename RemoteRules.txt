@@ -12,7 +12,7 @@
 ;设置规则标志位
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🛑 广告拦截Plus,https://anti-ad.net/surge.txt
-ruleset=👨 我的规则,https://gitee.com/wei__zhi/open/raw/master/MyRulesProxy.list
+ruleset=👨 爷的规则,https://gitee.com/wei__zhi/open/raw/master/MyRulesProxy.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
