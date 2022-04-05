@@ -1,10 +1,4 @@
-#爷的规则_节点选择
+#爷的规则_代理
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,ehtracker.org,🚀 节点选择
-#IP-CIDR,209.141.49.144/32,🇺🇲 美国节点
-#DOMAIN-SUFFIX,okex.com,🇯🇵 日本节点
-#DOMAIN-KEYWORD,okx,🇯🇵 日本节点
-#DOMAIN-SUFFIX,yahoo.co.jp,🎯 全球直连
-#DOMAIN-SUFFIX,hikarifield.co.jp,🎯 全球直连
-#IP-CIDR,209.141.49.144/32,🇺🇲 美国节点
