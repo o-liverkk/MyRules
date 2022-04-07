@@ -1,4 +1,5 @@
 #爷的规则_不代理
-DOMAIN-SUFFIX,yahoo.co.jp,🎯 全球直连
-DOMAIN-SUFFIX,hikarifield.co.jp,🎯 全球直连
-DOMAIN-SUFFIX,suc.tgzhq.xyz,🎯 全球直连
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,hikarifield.co.jp
+DOMAIN-SUFFIX,suc.tgzhq.xyz
+DOMAIN-SUFFIX,objects.githubusercontent.com
