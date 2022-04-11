@@ -1,5 +1,5 @@
 #爷的规则_不代理
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,hikarifield.co.jp
-DOMAIN-SUFFIX,suc.tgzhq.xyz
+#DOMAIN-SUFFIX,suc.tgzhq.xyz
 DOMAIN-SUFFIX,objects.githubusercontent.com
