@@ -11,10 +11,10 @@
 
 ;设置规则标志位
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
-ruleset=👨 爷的规则_代理,https://raw.githubusercontent.com/oliver-zhq/MyRules/main/MyRulesProxy.list
-ruleset=👨 爷的规则_不代理,https://raw.githubusercontent.com/oliver-zhq/MyRules/main/MyRulesCNReachable.list
 ruleset=👨 爷的规则_IP,https://raw.githubusercontent.com/oliver-zhq/MyRules/main/MyRulesIP.list
 ruleset=👨 爷的规则_okx,https://raw.githubusercontent.com/oliver-zhq/MyRules/main/MyRulesokx.list
+ruleset=👨 爷的规则_代理,https://raw.githubusercontent.com/oliver-zhq/MyRules/main/MyRulesProxy.list
+ruleset=👨 爷的规则_不代理,https://raw.githubusercontent.com/oliver-zhq/MyRules/main/MyRulesCNReachable.list
 ruleset=🛑 广告拦截Plus,https://raw.githubusercontent.com/oliver-zhq/MyRules/main/surge.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
