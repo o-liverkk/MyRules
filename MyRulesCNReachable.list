@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,suc.tgzhq.xyz
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,services.vnc.com
 DOMAIN-SUFFIX,lightnovel.us
+IP-CIDR,198.244.239.95/32
