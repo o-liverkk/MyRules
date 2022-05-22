@@ -54,7 +54,8 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🔧 生效测试0`select`[]REJECT`[]DIRECT
+;custom_proxy_group=🔧 生效测试0`select`[]REJECT`[]DIRECT
+custom_proxy_group=🧾 信息展示`select`(流量|GB|Traffic|网站|到期|时间|.)
 custom_proxy_group=🚀 节点选择`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]其它节点`[]DIRECT
 custom_proxy_group=🚀 手动切换`select`[]其它节点`.*
 custom_proxy_group=👨 爷的规则_代理`select`[]🚀 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT
@@ -89,6 +90,7 @@ custom_proxy_group=🇸🇬 狮城节点`select`(新加坡|坡|狮城|SG|Singapo
 custom_proxy_group=🇨🇳 台湾节点`select`(台|新北|彰化|TW|Taiwan)
 custom_proxy_group=🇰🇷 韩国节点`select`(KR|Korea|KOR|首尔|韩|韓)
 custom_proxy_group=其它节点`select`^((?!日|美|新|狮|台|港).)*$
+custom_proxy_group=信息展示`select`(流量|GB|Traffic|网站)
 ;custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
 ;设置分组标志位
 
