@@ -54,8 +54,8 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-;custom_proxy_group=🔧 生效测试0`select`[]REJECT`[]DIRECT
-custom_proxy_group=🧾 信息展示`select`(流量|GB|Traffic|网站|到期|时间|.)
+custom_proxy_group=🔧 生效测试`select`[]REJECT`[]DIRECT
+custom_proxy_group=🧾 信息展示`select`(流量|GB|Traffic|网站|到期|.|时间)
 custom_proxy_group=🚀 节点选择`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]其它节点`[]DIRECT
 custom_proxy_group=🚀 手动切换`select`[]其它节点`.*
 custom_proxy_group=👨 爷的规则_代理`select`[]🚀 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT
