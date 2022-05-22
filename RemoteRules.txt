@@ -90,7 +90,7 @@ custom_proxy_group=🇸🇬 狮城节点`select`(新加坡|坡|狮城|SG|Singapo
 custom_proxy_group=tw 台湾节点`select`(台|新北|彰化|TW|Taiwan)
 custom_proxy_group=🇰🇷 韩国节点`select`(KR|Korea|KOR|首尔|韩|韓)
 custom_proxy_group=其它节点`select`^((?!日|美|新|狮|台|港).)*$
-custom_proxy_group=信息展示`select`(流量|GB|Traffic|网站)
+;custom_proxy_group=信息展示`select`(流量|GB|Traffic|网站)
 ;custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
 ;设置分组标志位
 
