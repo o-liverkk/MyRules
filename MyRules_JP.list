@@ -4,3 +4,9 @@ DOMAIN-SUFFIX,dmm.com
 DOMAIN-KEYWORD,.jp
 DOMAIN-SUFFIX,valuecommerce.com
 DOMAIN-SUFFIX,irodoricomics.com
+USER-AGENT,AbemaTV*
+DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
