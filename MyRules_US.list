@@ -1,3 +1,12 @@
 #爷的规则_IP
 IP-CIDR,209.141.49.144/32
 DOMAIN-SUFFIX,xldtd.tk
+#Github
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,githubapp.com
