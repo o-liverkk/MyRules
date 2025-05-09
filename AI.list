@@ -75,5 +75,5 @@ DOMAIN, bard.google.com
 DOMAIN, generativelanguage.googleapis.com
 
 
-pplx.ai
-perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.com
