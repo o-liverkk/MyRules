@@ -34,6 +34,7 @@ DOMAIN-SUFFIX, segment.io
 DOMAIN-SUFFIX, sentry.io
 DOMAIN-SUFFIX, stripe.com
 DOMAIN-KEYWORD, openaicom-api
+DOMAIN-SUFFIX, chatgpt.com
 
 # Copilot 2024-01-05 22:40:35
 DOMAIN, api.msn.com
